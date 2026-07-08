@@ -1,2 +1,1 @@
-# TWN-Linux
-Exercises done with Techworld with Nana Devops Bootcamp
+# Techworld with Nana Devops Bootcamp exercises

@@ -2,4 +2,7 @@
 
 ## Linux
 **install-java**  
-A Bash script that automates the installation and verification of Java on Linux systems. The script checks whether Java is already installed, determines the installed Java version, and installs Java only if a compatible version is not present. After installation, it verifies the installation by executing `java -version` and confirms whether Java 11 or later is available.
+A Bash script that detects existing Java installations, parses major version numbers, and ensures Java 11 or higher is installed via apt.
+
+**user-processes**
+Interactive Bash utility that filters ps aux for the current user and natively sorts processes by resource consumption.
